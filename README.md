@@ -1,8 +1,8 @@
 JS Tooling
 ===================================
-![Assignment Checks](https://github.com/IT3049C-Summer20/3-rock-paper-scissors-<GITHUB_USERNAME_HERE>/workflows/Assignment%20Checks/badge.svg)
+![Assignment Checks](https://github.com/IT3049C-Summer20/3-rock-paper-scissors-emmaed1/workflows/Assignment%20Checks/badge.svg)
 
-Instructions to this assignment can be found [here](https://it3049c.github.io/docs/labs/tooling/).
+Instructions to this assignment can be found [here](https://it3049c.github.io/coursework/labs/tooling/).
 
 ## Checklist:
 - [ ] update the assignment checks above to the correct link.
